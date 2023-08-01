@@ -13,12 +13,8 @@ Step 3: Run Start.py
 
 Prerequisite modules:
 
-    random
-    
-    requests
-    
-    json
-    
-    pillow
-    
-    tkinter (but it's in-built)
+    .random
+    .requests
+    .json
+    .pillow
+    .tkinter (but it's in-built)
